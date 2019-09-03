@@ -1,0 +1,13 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "BN"
+    },
+
+    {
+        "ParameterKey": "EnvironmentLocation",
+        "ParameterValue": "BNProd"
+    }
+
+
+]
